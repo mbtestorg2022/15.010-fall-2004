@@ -4,39 +4,575 @@ title: Calendar
 uid: cd923620-b834-5e23-1d7f-e4bedd1596bc
 ---
 
-| ses # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| L1 | _Markets  {{< br >}}  {{< br >}}_Introduction to the Course  {{< br >}}  {{< br >}}Types of Markets: Competitive, Monopoly/Monopsony and Oligopoly/Oligopsony  {{< br >}}  {{< br >}}The Boundaries of a Market  {{< br >}}  {{< br >}}Product Boundaries, Geographical Boundaries  {{< br >}}  {{< br >}}Examples: Bicycles, Prescription Drugs, Airline Travel, and Role of Internet |  |
-| R1 | Review of Own- and Cross-price Elasticities, Market Definition, Consumer and Producer Surplus  {{< br >}}  {{< br >}}Use of Supply and Demand Curves  {{< br >}}  {{< br >}}Review of Logarithms |  |
-| L2 | _Defining the Market  {{< br >}}  {{< br >}}_Discussion of Market Definition and Market Strategy  {{< br >}}  {{< br >}}Case Study: Credit Cards in the U.K. |  |
-| L3 | _Analysis of Competitive Markets  {{< br >}}  {{< br >}}_Supply-Demand Analysis of Government Intervention in Competitive Markets (Examples: Taxes, Subsidies, Tariffs, Import Quotas)  {{< br >}}  {{< br >}}Detailed Analysis of the Sugar Quota and its Effects |  |
-| R2 | Further Review of Supply and Demand |  |
-| L4 | _Production and Cost  {{< br >}}  {{< br >}}_Brief Review of Production Economics and Cost Minimization  {{< br >}}  {{< br >}}Cost Concepts: Fixed, Variable and Sunk  {{< br >}}  {{< br >}}Total, Average, and Marginal Cost in the Short Run and Long Run  {{< br >}}  {{< br >}}Accounting Cost vs. Economic Cost | Homework set 1 due |
-| L5 | _Production and Cost (cont.)  {{< br >}}  {{< br >}}_Airline Cost Example: User Cost of Capital  {{< br >}}  {{< br >}}Economies of Scale and Scope  {{< br >}}  {{< br >}}The Learning Curve and Cost Reduction over Time |  |
-| R3 | Review of the Economics of Production and Cost |  |
-| L6 | _Consumer Demand  {{< br >}}  {{< br >}}_Introduction to Consumer Demand: Empirical Demand Analysis and Models of Consumer Choice |  |
-| L7 | _Consumer Demand (cont.)  {{< br >}}  {{< br >}}_Pricing, Product Characteristics and Quality  {{< br >}}  {{< br >}}The Analysis of Network Externalities, and their Competitive and Strategic Implications  {{< br >}}  {{< br >}}Example from the Software Industry | Homework set 2 due |
-| R4 | Review of the Economics of Demand |  |
-| L8 | _Time and Uncertainty  {{< br >}}  {{< br >}}_Intertemporal Prices and Net Present Value  {{< br >}}  {{< br >}}Uncertainty and Risk Aversion  {{< br >}}  {{< br >}}Waiting and Option Value |  |
-| L9 | _Market Power  {{< br >}}  {{< br >}}_Competition and Entry  {{< br >}}  {{< br >}}Monopoly Power and Mark-up Pricing  {{< br >}}  {{< br >}}Production across Multiple Plants  {{< br >}}  {{< br >}}Pricing with Network Externalities |  |
-| R5 | Review of Market Power (Monopoly) | Homework set 3 due |
-|  | Review for Midterm Exam |  |
-|  | Midterm Exam |  |
-| L10 | _Pricing with Market Power  {{< br >}}  {{< br >}}_Various Forms of Price Discrimination  {{< br >}}  {{< br >}}Segmented Markets and Pricing Oriented toward Market Segmentation  {{< br >}}  {{< br >}}Examples of Price Discrimination in Practice |  |
-| L11 | _Pricing with Market Power (cont.)  {{< br >}}  {{< br >}}_The Use of Two-part Tariffs  {{< br >}}  {{< br >}}Volume Pricing  {{< br >}}  {{< br >}}Commodity Bundling |  |
-| R6 | Review of Pricing with Market Power |  |
-| L12 | _Game Theory and Competitive Strategy  {{< br >}}  {{< br >}}_Thinking Strategically  {{< br >}}  {{< br >}}Duopoly Exercise (in class) to Introduce Cournot  {{< br >}}  {{< br >}}First-mover Advantage: Stackelberg  {{< br >}}  {{< br >}}Repeated Cournot  {{< br >}}  {{< br >}}Cournot-Nash in detail  {{< br >}}  {{< br >}}Nash Equilibrium in Other Kinds of Games |  |
-| L13 | _Game Theory and Competitive Strategy (cont.)  {{< br >}}  {{< br >}}_Dominant Strategies  {{< br >}}  {{< br >}}Nash Equilibrium again  {{< br >}}  {{< br >}}Repeated Games  {{< br >}}  {{< br >}}The Prisoners' Dilemma  {{< br >}}  {{< br >}}Sequential Games  {{< br >}}  {{< br >}}Threats and Credibility  {{< br >}}  {{< br >}}Pre-emptive Moves  {{< br >}}  {{< br >}}Entry Deterrence | Homework set 4 due |
-| R7 | Review of Game Theory |  |
-| L14 | _Collusion and Competition in Oligopolistic Markets  {{< br >}}  {{< br >}}_Tacit Collusion  {{< br >}}  {{< br >}}Examples: Electrical Equipment, Mineral Cartels |  |
-| R8 | Review of Game Theory, Collusion and Cartels |  |
-| L15 | _Limiting Market Power  {{< br >}}  {{< br >}}_Antitrust Laws  {{< br >}}  {{< br >}}U.S. vs. Microsoft®  {{< br >}}  {{< br >}}Common Property Resources | Homework set 5 due |
-| L16 | _Auctions and Bidding  {{< br >}}  {{< br >}}_Alternative Forms of Auctions and their Characteristics  {{< br >}}  {{< br >}}The Winner's Curse |  |
-| R9 | Review of Auctions and Common Property Resources |  |
-| L17 | _Transfer Pricing and Vertical Integration  {{< br >}}  {{< br >}}_Transfer Pricing in the Vertically Integrated Firm  {{< br >}}  {{< br >}}Transfer Pricing with Outside Markets  {{< br >}}  {{< br >}}Double Marginalization  {{< br >}}  {{< br >}}Costs and Benefits of Vertical Integration |  |
-| L18 | _Incentives and Information  {{< br >}}  {{< br >}}_Principal-agent Problem and Incentives  {{< br >}}  {{< br >}}Moral Hazard  {{< br >}}  {{< br >}}Multi-tasking  {{< br >}}  {{< br >}}Promotion Tournaments and Up-or-out Policies  {{< br >}}  {{< br >}}Team Incentives  {{< br >}}  {{< br >}}Back-loaded Wages |  |
-| L19 | _Information and Market Structure  {{< br >}}  {{< br >}}_Markets with Asymmetric Information  {{< br >}}  {{< br >}}Quality Uncertainty and the Market for "Lemons"  {{< br >}}  {{< br >}}Adverse Selection  {{< br >}}  {{< br >}}Signaling |  |
-| R10 | Review of Transfer Pricing and Asymmetric Information | Homework set 6 due |
-| L20 | _Externalities and Market Structure  {{< br >}}  {{< br >}}_Positive and Negative Externalities  {{< br >}}  {{< br >}}Market Failure and Forms of Government Intervention  {{< br >}}  {{< br >}}Property Rights |  |
-|  | Review for Final Exam |  |
-| L21 | Final Examination |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ses #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+_Markets  
+  
+_Introduction to the Course  
+  
+Types of Markets: Competitive, Monopoly/Monopsony and Oligopoly/Oligopsony  
+  
+The Boundaries of a Market  
+  
+Product Boundaries, Geographical Boundaries  
+  
+Examples: Bicycles, Prescription Drugs, Airline Travel, and Role of Internet
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R1
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Own- and Cross-price Elasticities, Market Definition, Consumer and Producer Surplus  
+  
+Use of Supply and Demand Curves  
+  
+Review of Logarithms
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+_Defining the Market  
+  
+_Discussion of Market Definition and Market Strategy  
+  
+Case Study: Credit Cards in the U.K.
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+_Analysis of Competitive Markets  
+  
+_Supply-Demand Analysis of Government Intervention in Competitive Markets (Examples: Taxes, Subsidies, Tariffs, Import Quotas)  
+  
+Detailed Analysis of the Sugar Quota and its Effects
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R2
+{{< tdclose >}}
+{{< tdopen >}}
+Further Review of Supply and Demand
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+_Production and Cost  
+  
+_Brief Review of Production Economics and Cost Minimization  
+  
+Cost Concepts: Fixed, Variable and Sunk  
+  
+Total, Average, and Marginal Cost in the Short Run and Long Run  
+  
+Accounting Cost vs. Economic Cost
+{{< tdclose >}}
+{{< tdopen >}}
+Homework set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+_Production and Cost (cont.)  
+  
+_Airline Cost Example: User Cost of Capital  
+  
+Economies of Scale and Scope  
+  
+The Learning Curve and Cost Reduction over Time
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R3
+{{< tdclose >}}
+{{< tdopen >}}
+Review of the Economics of Production and Cost
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+_Consumer Demand  
+  
+_Introduction to Consumer Demand: Empirical Demand Analysis and Models of Consumer Choice
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+_Consumer Demand (cont.)  
+  
+_Pricing, Product Characteristics and Quality  
+  
+The Analysis of Network Externalities, and their Competitive and Strategic Implications  
+  
+Example from the Software Industry
+{{< tdclose >}}
+{{< tdopen >}}
+Homework set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R4
+{{< tdclose >}}
+{{< tdopen >}}
+Review of the Economics of Demand
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+_Time and Uncertainty  
+  
+_Intertemporal Prices and Net Present Value  
+  
+Uncertainty and Risk Aversion  
+  
+Waiting and Option Value
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+_Market Power  
+  
+_Competition and Entry  
+  
+Monopoly Power and Mark-up Pricing  
+  
+Production across Multiple Plants  
+  
+Pricing with Network Externalities
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R5
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Market Power (Monopoly)
+{{< tdclose >}}
+{{< tdopen >}}
+Homework set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Review for Midterm Exam
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Exam
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+_Pricing with Market Power  
+  
+_Various Forms of Price Discrimination  
+  
+Segmented Markets and Pricing Oriented toward Market Segmentation  
+  
+Examples of Price Discrimination in Practice
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+_Pricing with Market Power (cont.)  
+  
+_The Use of Two-part Tariffs  
+  
+Volume Pricing  
+  
+Commodity Bundling
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R6
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Pricing with Market Power
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+_Game Theory and Competitive Strategy  
+  
+_Thinking Strategically  
+  
+Duopoly Exercise (in class) to Introduce Cournot  
+  
+First-mover Advantage: Stackelberg  
+  
+Repeated Cournot  
+  
+Cournot-Nash in detail  
+  
+Nash Equilibrium in Other Kinds of Games
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+_Game Theory and Competitive Strategy (cont.)  
+  
+_Dominant Strategies  
+  
+Nash Equilibrium again  
+  
+Repeated Games  
+  
+The Prisoners' Dilemma  
+  
+Sequential Games  
+  
+Threats and Credibility  
+  
+Pre-emptive Moves  
+  
+Entry Deterrence
+{{< tdclose >}}
+{{< tdopen >}}
+Homework set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R7
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Game Theory
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+_Collusion and Competition in Oligopolistic Markets  
+  
+_Tacit Collusion  
+  
+Examples: Electrical Equipment, Mineral Cartels
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R8
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Game Theory, Collusion and Cartels
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+_Limiting Market Power  
+  
+_Antitrust Laws  
+  
+U.S. vs. Microsoft®  
+  
+Common Property Resources
+{{< tdclose >}}
+{{< tdopen >}}
+Homework set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+_Auctions and Bidding  
+  
+_Alternative Forms of Auctions and their Characteristics  
+  
+The Winner's Curse
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R9
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Auctions and Common Property Resources
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+_Transfer Pricing and Vertical Integration  
+  
+_Transfer Pricing in the Vertically Integrated Firm  
+  
+Transfer Pricing with Outside Markets  
+  
+Double Marginalization  
+  
+Costs and Benefits of Vertical Integration
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+_Incentives and Information  
+  
+_Principal-agent Problem and Incentives  
+  
+Moral Hazard  
+  
+Multi-tasking  
+  
+Promotion Tournaments and Up-or-out Policies  
+  
+Team Incentives  
+  
+Back-loaded Wages
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+_Information and Market Structure  
+  
+_Markets with Asymmetric Information  
+  
+Quality Uncertainty and the Market for "Lemons"  
+  
+Adverse Selection  
+  
+Signaling
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R10
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Transfer Pricing and Asymmetric Information
+{{< tdclose >}}
+{{< tdopen >}}
+Homework set 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+_Externalities and Market Structure  
+  
+_Positive and Negative Externalities  
+  
+Market Failure and Forms of Government Intervention  
+  
+Property Rights
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Review for Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21
+{{< tdclose >}}
+{{< tdopen >}}
+Final Examination
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
