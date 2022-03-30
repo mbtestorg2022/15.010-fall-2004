@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes solutions for assignment 1.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-010-economic-analysis-for-business-decisions-fall-2004/7cbb485561b640c52b174049bdb212d4_homework_01_sol.pdf
 file_type: application/pdf
+parent_uid: 0b3a262c-64b7-3098-997d-1b17e3557120
 resourcetype: Document
 title: homework_01_sol.pdf
 uid: 7cbb4855-61b6-40c5-2b17-4049bdb212d4

@@ -4,6 +4,7 @@ description: Basics of Present Value, Uncertainty and Risk Aversion, Option Valu
   Market Power Models, Numeric Examples.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-010-economic-analysis-for-business-decisions-fall-2004/235c362b58425d779647029a7566a587_time_uncrtn_mkt.pdf
 file_type: application/pdf
+parent_uid: 729197a3-8007-916f-29ae-b92113505210
 resourcetype: Document
 title: time_uncrtn_mkt.pdf
 uid: 235c362b-5842-5d77-9647-029a7566a587

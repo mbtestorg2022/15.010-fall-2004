@@ -4,6 +4,7 @@ description: Two-part Tariffs, Bundling, Pricing, Transfer Pricing, Asymmetric I
   Cartels and Auctions, Externalities/Common Property and Game theory.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-010-economic-analysis-for-business-decisions-fall-2004/a4688f6a19a63881cb4edeeee352601c_final_rev_hndout.pdf
 file_type: application/pdf
+parent_uid: 93294fb1-6eb1-2889-2d21-cbd51760c44c
 resourcetype: Document
 title: final_rev_hndout.pdf
 uid: a4688f6a-19a6-3881-cb4e-deeee352601c

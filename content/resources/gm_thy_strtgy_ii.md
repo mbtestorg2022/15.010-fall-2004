@@ -4,6 +4,7 @@ description: 'Overview: Fun and Games with Bidding Situations, Threats and commi
   Entry deterrence.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-010-economic-analysis-for-business-decisions-fall-2004/46a5c7bf9a85b441e5feba5590d1d31f_gm_thy_strtgy_ii.pdf
 file_type: application/pdf
+parent_uid: 98ef3101-0ef7-5f0a-f1e2-25041b9c7c1d
 resourcetype: Document
 title: gm_thy_strtgy_ii.pdf
 uid: 46a5c7bf-9a85-b441-e5fe-ba5590d1d31f
